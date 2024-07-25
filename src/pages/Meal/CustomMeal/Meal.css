@@ -1,0 +1,14 @@
+.meal-img {
+  border-radius: 8px;
+  object-fit: cover;
+  height: 300px;
+  width: 100%;
+}
+
+.Mealhover {
+  transition: transform 0.3s;
+}
+
+.Mealhover:hover {
+  transform: translateY(-10px);
+}

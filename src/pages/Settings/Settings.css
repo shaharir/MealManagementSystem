@@ -1,0 +1,46 @@
+/* Settings.css */
+body {
+  background-color: #f8f9fa;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.card {
+  border: none;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+.settingHover:hover {
+  background-color: #a3c3c4;
+}
+.settingFixed {
+  position: fixed;
+}
+
+.settingElement {
+  margin-left: 100px;
+}
